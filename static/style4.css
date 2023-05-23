@@ -1,0 +1,18 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+#score {
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 50px;
+}
